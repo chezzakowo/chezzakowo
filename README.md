@@ -1,7 +1,7 @@
 # 💫 About Me
 [![](https://visitcount.itsvg.in/api?id=chezzakowo&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76531&width=435&lines=Wassup%2C+My+name+is+Chez_Zak;I'm+a+noob+Discord+Bot+Developer;My+Code+Language%3A+C%23%2C+JS%2C+Python%2C+HTML%2C+CSS;My+Discord%3A+Chez_Zak%230842" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75400&width=435&lines=Welcome+to+my+github!;You+can+find+some+cool+stuff+here+;Discord%3A+Chez_Zal%230842+%2F+chezzakowo;This+Bio+may+contian+some+of+my+old+info)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

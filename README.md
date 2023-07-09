@@ -1,5 +1,5 @@
 # 💫 About Me
-[![](https://visitcount.itsvg.in/api?id=chezzakowo&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=chezzakowo&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75400&width=435&lines=Welcome+to+my+github!;You+can+find+some+cool+stuff+here+;Discord%3A+Chez_Zal%230842+%2F+chezzakowo;This+Bio+may+contian+some+of+my+old+info)](https://git.io/typing-svg)
 

@@ -1,12 +1,12 @@
 # 💫 About Me
 [![](https://visitcount.itsvg.in/api?id=chezzakowo&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75400&width=435&lines=Welcome+to+my+github!;You+can+find+some+cool+stuff+here+;Discord%3A+Chez_Zal%230842+%2F+chezzakowo;This+Bio+may+contian+some+of+my+old+info)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75400&width=435&lines=Z..z.ZZZ.zzz.ZZz;I+Play+Honkai+Star+Rail;Also+Genshin)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💬 My Discord
-[![Discord](https://discord.c99.nl/widget/theme-5/903942978278662194.png)](https://discord.com/users/903942978278662194)
+[![Discord](https://discord.c99.nl/widget/theme-4/903942978278662194.png)](https://discord.com/users/903942978278662194)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

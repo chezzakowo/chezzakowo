@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💬 My Discord
-[![Discord](https://discord.c99.nl/widget/theme-4/903942978278662194.png)](https://discord.com/users/903942978278662194)
+[![Discord](https://discord.c99.nl/widget/theme-5/903942978278662194.png)](https://discord.com/users/903942978278662194)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

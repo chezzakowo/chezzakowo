@@ -71,10 +71,8 @@
   <tbody>
     <tr>
       <td>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chezzakowo&theme=zenburn" />
       </td>
       <td>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chezzakowo&theme=zenburn&utcOffset=8" />
       </td>
     </tr>
   </tbody>

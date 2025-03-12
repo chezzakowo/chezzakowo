@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=chezzakowo&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+
 # 💫 About Me
 [![](https://visitcount.itsvg.in/api?id=chezzakowo&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
 ```json

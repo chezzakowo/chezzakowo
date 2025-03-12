@@ -1,19 +1,25 @@
 # 💫 About Me
 [![](https://visitcount.itsvg.in/api?id=chezzakowo&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
+```json
+{
+  "Short-Bio": "I'm a Vietnamese and a weeb and I love to code some silly stuff",
+  "Online-Time": "From 12PM to 11PM (GMT+8)",
+  "Social": "https://bento.me/chezzakowo",
+  "Games": "Genshin Impact, Honkai: Star Rail, Zenless Zone Zero, VALORANT, Minecraft, ..."
+}
 
+```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💬 My Discord
 [![Discord](https://discord.c99.nl/widget/theme-4/1028891417893933057.png)](https://discord.com/users/1028891417893933057)
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💭 Social
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/YtZkRf2jBP)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/KR2Q7J5DVw)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1028891417893933057)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCCNzJ0BRSEgqbNWcKPPVd7w)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Chez_Zak)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/chezzakowo)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -63,17 +69,8 @@
       <th>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chezzakowo&theme=zenburn" />
       </th>
-      <th>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kentjuno7z&theme=zenburn" />
-      </th>
-    </tr>
-  </tbody>
+
   <tbody>
     <tr>
-      <td>
-      </td>
-      <td>
-      </td>
-    </tr>
   </tbody>
 </table>

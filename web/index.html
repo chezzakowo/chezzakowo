@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="vi" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Chez_ - 404 Not Found">
+  <meta name="theme-color" content="#0c0c0c">
+  <title>503 — Không khả dụng | Chez_</title>
+
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
+
+  <link rel="stylesheet" href="./styles/theme.css">
+  <link rel="stylesheet" href="./styles/styles.css">
+</head>
+<body>
+  <div id="app-404">
+
+    <main class="err-center">
+
+      <div class="err-code" aria-hidden="true">503</div>
+
+      <div class="err-label-wrap">
+        <p class="err-label" id="err-label">Server đang bị tê liệt</p>
+      </div>
+
+      <p class="err-hint" id="err-hint">
+        <span class="prompt">//</span>
+        <span id="err-hint-text">Hiện tại bên host của mình đi nghỉ dưỡng rồi nên là server đang không khả dụng. Có gì quay lại sau nhé! Trạng thái server tại: https://status.chezzakowo.qzz.io</span>
+      </p>
+
+      <!-- Audio Player Card -->
+      <div class="player-card" id="player-card" role="region" aria-label="Audio player">
+        <div class="player-header">
+          <svg class="player-note" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+            <path d="M12 3v10.55A4 4 0 1 0 14 17V7h4V3h-6z"/>
+          </svg>
+          <span class="player-title" id="player-title">// 黒皇帝 - Galaxy Collapse</span>
+          <span class="player-vol-pct" id="player-vol-pct">50%</span>
+        </div>
+
+        <div class="player-controls">
+          <button class="player-btn" id="btn-play" title="Play / Pause" aria-label="Play / Pause">
+            <svg id="icon-play" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <polygon points="5 3 19 12 5 21 5 3"/>
+            </svg>
+            <svg id="icon-pause" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" style="display:none">
+              <rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/>
+            </svg>
+          </button>
+
+          <div class="player-vol-wrap">
+            <svg class="vol-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M11 5L6 9H2v6h4l5 4V5z"/>
+              <path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"/>
+            </svg>
+            <input
+              type="range" min="0" max="100" value="75" step="1"
+              class="vol-slider" id="vol-slider" aria-label="Volume"
+            >
+          </div>
+
+          <button class="player-btn player-btn--loop active" id="btn-loop" title="Toggle loop" aria-label="Toggle loop" aria-pressed="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <polyline points="17 1 21 5 17 9"/><path d="M3 11V9a4 4 0 0 1 4-4h14"/>
+              <polyline points="7 23 3 19 7 15"/><path d="M21 13v2a4 4 0 0 1-4 4H3"/>
+            </svg>
+          </button>
+        </div>
+
+        <div class="player-fallback" id="player-fallback" style="display:none">
+          <button class="err-back player-click-play" id="btn-click-play">
+            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02z"/></svg>
+            <span>Bỏ tắt tiếng</span>
+          </button>
+        </div>
+      </div>
+
+    </main>
+
+    <footer class="site-footer" id="site-footer">
+      <span id="footer-copy">© 2025 Chez_</span>
+      <span class="footer-prompt">// built with ❤</span>
+    </footer>
+
+  </div>
+
+  <!--
+    FIX: Audio src dùng đường dẫn tuyệt đối từ web root
+    /assets/audio/... → web/assets/audio/...  ✓
+  -->
+  <audio id="bgm" src="./assets/audio/music.mp3"
+         autoplay muted loop preload="auto"></audio>
+
+  <!-- FIX: script src tuyệt đối -->
+  <script type="module" src="./scripts/main.js"></script>
+</body>
+</html>
